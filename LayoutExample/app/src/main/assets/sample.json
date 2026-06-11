@@ -1,0 +1,76 @@
+{
+  "zodiacs": [
+    {
+      "name": "Aries",
+      "dateRange": "March 21 – April 19",
+      "imageUrl": "https://placehold.co/120x120/E03E3E/FFFFFF?text=Aries",
+      "description": "Bold, ambitious, and energetic, Aries dives headfirst into challenging situations. As a fire sign ruled by Mars, they are courageous natural leaders who thrive on competition and new beginnings."
+    },
+    {
+      "name": "Taurus",
+      "dateRange": "April 20 – May 20",
+      "imageUrl": "https://placehold.co/120x120/2D7D46/FFFFFF?text=Taurus",
+      "description": "An earth sign ruled by Venus, Taurus is known for reliability, practicality, and a love of the finer things. Patient and determined, they pursue goals with steady persistence and a strong aesthetic sense."
+    },
+    {
+      "name": "Gemini",
+      "dateRange": "May 21 – June 20",
+      "imageUrl": "https://placehold.co/120x120/C49000/FFFFFF?text=Gemini",
+      "description": "An air sign ruled by Mercury, Gemini is curious, adaptable, and witty. Known for their dual nature, Geminis are quick thinkers with an extraordinary ability to connect with people from all walks of life."
+    },
+    {
+      "name": "Cancer",
+      "dateRange": "June 21 – July 22",
+      "imageUrl": "https://placehold.co/120x120/1E6FCC/FFFFFF?text=Cancer",
+      "description": "A water sign ruled by the Moon, Cancer is deeply intuitive and sentimental. Cancers are compassionate caretakers who cherish family and home, with powerful emotional intelligence and fierce loyalty to loved ones."
+    },
+    {
+      "name": "Leo",
+      "dateRange": "July 23 – August 22",
+      "imageUrl": "https://placehold.co/120x120/FF7900/FFFFFF?text=Leo",
+      "description": "A fire sign ruled by the Sun, Leo radiates warmth, creativity, and charisma. Natural performers at heart, Leos are generous, dramatic, and passionate, thriving in the spotlight and inspiring those around them."
+    },
+    {
+      "name": "Virgo",
+      "dateRange": "August 23 – September 22",
+      "imageUrl": "https://placehold.co/120x120/8B6914/FFFFFF?text=Virgo",
+      "description": "An earth sign ruled by Mercury, Virgo is known for their analytical mind and attention to detail. Practical and methodical, Virgos are hardworking perfectionists who excel at problem-solving and service to others."
+    },
+    {
+      "name": "Libra",
+      "dateRange": "September 23 – October 22",
+      "imageUrl": "https://placehold.co/120x120/0086CC/FFFFFF?text=Libra",
+      "description": "An air sign ruled by Venus, Libra is charming, diplomatic, and fair-minded. Libras seek balance and harmony in all things and have a natural gift for seeing every side of a situation with grace and elegance."
+    },
+    {
+      "name": "Scorpio",
+      "dateRange": "October 23 – November 21",
+      "imageUrl": "https://placehold.co/120x120/8B1A4A/FFFFFF?text=Scorpio",
+      "description": "A water sign co-ruled by Mars and Pluto, Scorpio is known for intensity, passion, and determination. Mysterious and magnetic, Scorpios are resourceful truth-seekers with profound emotional depth and transformative power."
+    },
+    {
+      "name": "Sagittarius",
+      "dateRange": "November 22 – December 21",
+      "imageUrl": "https://placehold.co/120x120/E85D00/FFFFFF?text=Sagittarius",
+      "description": "A fire sign ruled by Jupiter, Sagittarius is adventurous, optimistic, and philosophical. Free-spirited explorers at heart, Sagittarians love travel, knowledge, and the eternal pursuit of truth and higher understanding."
+    },
+    {
+      "name": "Capricorn",
+      "dateRange": "December 22 – January 19",
+      "imageUrl": "https://placehold.co/120x120/1A5C3A/FFFFFF?text=Capricorn",
+      "description": "An earth sign ruled by Saturn, Capricorn epitomizes discipline and ambition. Responsible, persistent, and practical, Capricorns are determined to achieve their goals and build lasting legacies through consistent hard work."
+    },
+    {
+      "name": "Aquarius",
+      "dateRange": "January 20 – February 18",
+      "imageUrl": "https://placehold.co/120x120/5B5EA6/FFFFFF?text=Aquarius",
+      "description": "An air sign ruled by Uranus, Aquarius is known for independent thinking and humanitarian vision. Progressive, original, and idealistic, Aquarians are visionaries who dedicate themselves to making the world a better place."
+    },
+    {
+      "name": "Pisces",
+      "dateRange": "February 19 – March 20",
+      "imageUrl": "https://placehold.co/120x120/1A7A8C/FFFFFF?text=Pisces",
+      "description": "A water sign ruled by Neptune, Pisces is empathetic, artistic, and deeply spiritual. Gentle souls with vivid imagination, Pisces have an innate understanding of the human experience and a boundless capacity for compassion."
+    }
+  ]
+}
